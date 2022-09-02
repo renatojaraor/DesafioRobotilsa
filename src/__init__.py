@@ -1,0 +1,1 @@
+from src.personaje import Personaje
